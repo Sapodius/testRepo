@@ -1,0 +1,9 @@
+{
+	"name":"labo10",
+	"description":"socket.io app",
+	"dependencies":{
+		"express":"~4.13.3",
+		"socket.io": "~1.2.0"
+	},
+	"engine":"node 4.0.0"
+}
