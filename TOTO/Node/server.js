@@ -28,7 +28,10 @@ wss.on("connection", function(ws){
 });
 
 function onNewMessage(socket) {
-    var pi = estimatePi();
+    var pi = 3.14;
+    for (var i = 0; i<10000; i++){
+        var j = i;
+    }
     if (socket.readyState == ws.OPEN) {
         socket.send("Pi is " + pi);
     }
