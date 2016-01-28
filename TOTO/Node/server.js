@@ -10,7 +10,7 @@ var chat = require('./chatserver');
 //
 //http.listen(process.env.PORT || 3000);
 //console.log('App started at port 3000!!!');
-
+var port = process.env.PORT || 3000;
 var server = http.createServer(app)
 server.listen(port)
 
