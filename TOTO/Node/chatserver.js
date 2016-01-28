@@ -1,8 +1,7 @@
 var messages = [];
 
 exports.onConnection = function(socket){
-  socket.emit('getMessages', messages);
-  socket.on('newMessage', function(mess){
+  socket.on('message', function(mess){
     onNewMessage(socket);
   });
 }
