@@ -8,5 +8,5 @@ var chat = require('./chatserver');
 
 io.on('connection', chat.onConnection);
 
-http.listen(3000);
+http.listen(process.env.PORT || 3000);
 console.log('App started at port 3000!!!');
