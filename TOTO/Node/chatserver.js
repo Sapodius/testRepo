@@ -8,7 +8,7 @@ exports.onConnection = function(socket){
 
 function onNewMessage(socket){
   var pi = estimatePi();
-  socket.broadcast.emit('getMessage', pi);
+  socket.send(pi);
 }
 
 function estimatePi() {
