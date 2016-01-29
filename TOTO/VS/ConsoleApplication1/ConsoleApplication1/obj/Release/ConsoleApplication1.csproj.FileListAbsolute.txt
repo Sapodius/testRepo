@@ -1,0 +1,7 @@
+C:\Users\msavo_000\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+C:\Users\msavo_000\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\msavo_000\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\msavo_000\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\Microsoft.WebSockets.dll
+C:\Users\msavo_000\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\websocket-sharp-with-proxy-support.dll
+C:\Users\msavo_000\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Users\msavo_000\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
